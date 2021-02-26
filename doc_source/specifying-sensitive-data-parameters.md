@@ -113,7 +113,7 @@ You can use the AWS Systems Manager console to create a Systems Manager Paramete
 
 1. In the navigation pane, choose **Parameter Store**, **Create parameter**\.
 
-1. For **Name**, type a hierarchy and a parameter name\. For example, type `test/database_password`\.
+1. For **Name**, type a hierarchy and a parameter name\. For example, type `/test/database_password`\.
 
 1. For **Description**, type an optional description\.
 
